@@ -1,6 +1,6 @@
 # Advanced Programming Projects
 
-> A collection of academic and educational programming projects developed as part of my coursework in the **Computer Engineering BSc program** at **University of Zanjan (UoZ)**.
+> A collection of academic and educational programming projects developed as part of my coursework in the **Computer Engineering BSc program** at **University of Zanjan (ZNU)**.
 
 ## 📘 About This Repository
 This repository contains assignments, exercises, and mini-projects related to **Advanced Programming** and other technical university courses.  
