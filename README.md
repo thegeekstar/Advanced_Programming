@@ -13,7 +13,7 @@ All projects have been implemented under the supervision of university instructo
 ✅ Build a strong foundation for future software development and research  
 
 ## 📍 Academic Information
-- **Student:** Amir Reza Soltani  
+- **Student:** Amirreza Soltani  
 - **Program:** B.Sc. in Computer Engineering  
 - **University:** University of Zanjan  
 - **Course Focus:** Advanced Programming & Educational Projects  
