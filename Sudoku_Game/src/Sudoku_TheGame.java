@@ -5,14 +5,9 @@ import java.util.Scanner;
 public class Sudoku_TheGame {
     static int[][] board = new int[9][9];
 
-    public static void main(String[] args) {
-        try {
-            readBoardFromFile("src/sudoku.txt");
-        } catch (FileNotFoundException e) {
-            System.out.println("File not found!");
-            return;
-        }
+    public static void main(String[] args) throws FileNotFoundException {
 
+        readBoardFromFile("src/sudoku.txt");
         Scanner input = new Scanner(System.in);
 
         while (true) {
